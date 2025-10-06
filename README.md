@@ -25,8 +25,4 @@ Abaixo estão as linguagens de programação que mais utilizo e algumas informa�
 
 ##
 
-<!-- GitHub Stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalelalessandro&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Kalel's GitHub Stats" />
-
-<!-- Top Languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalelalessandro&langs_count=4&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
