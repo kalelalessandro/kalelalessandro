@@ -1,5 +1,5 @@
 ## Olá, eu sou Kalel Alessandro 👋
-Sou Front-end e Desenvolvedor.  
+Sou FullStack.  
 Abaixo estão as linguagens de programação que mais utilizo e algumas informações para contato.
 
 <div style="display: inline_block;"><br>
